@@ -37,7 +37,7 @@ function addRemove() {
 let ownerNameAndCopyright = document.createElement("p");
 ownerNameAndCopyright.classList.add("copyright")
 ownerNameAndCopyright.style.color = "#ffffff"
-ownerNameAndCopyright.textContent = "Created by Amrendra Singh. © 2023"
+ownerNameAndCopyright.textContent = "Guess Word ©2023"
 copyright.appendChild(ownerNameAndCopyright)
 
 getWord()
